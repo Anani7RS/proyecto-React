@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Primer-proyecto-React/build/static/css/main.0ad5ff3e.css",
-    "main.js": "/Primer-proyecto-React/build/static/js/main.c23fb9fb.js",
-    "static/js/787.75b94f2b.chunk.js": "/Primer-proyecto-React/build/static/js/787.75b94f2b.chunk.js",
-    "static/media/coraje.jpeg": "/Primer-proyecto-React/build/static/media/coraje.f1c9fe2aa64e5f55921b.jpeg",
-    "static/media/panda.jpeg": "/Primer-proyecto-React/build/static/media/panda.e51b74d22854866a14df.jpeg",
-    "index.html": "/Primer-proyecto-React/build/index.html",
-    "main.0ad5ff3e.css.map": "/Primer-proyecto-React/build/static/css/main.0ad5ff3e.css.map",
-    "main.c23fb9fb.js.map": "/Primer-proyecto-React/build/static/js/main.c23fb9fb.js.map",
-    "787.75b94f2b.chunk.js.map": "/Primer-proyecto-React/build/static/js/787.75b94f2b.chunk.js.map"
+    "main.css": "/proyecto-React/build/static/css/main.0ad5ff3e.css",
+    "main.js": "/proyecto-React/build/static/js/main.acf2f274.js",
+    "static/js/787.75b94f2b.chunk.js": "/proyecto-React/build/static/js/787.75b94f2b.chunk.js",
+    "static/media/coraje.jpeg": "/proyecto-React/build/static/media/coraje.f1c9fe2aa64e5f55921b.jpeg",
+    "static/media/panda.jpeg": "/proyecto-React/build/static/media/panda.e51b74d22854866a14df.jpeg",
+    "index.html": "/proyecto-React/build/index.html",
+    "main.0ad5ff3e.css.map": "/proyecto-React/build/static/css/main.0ad5ff3e.css.map",
+    "main.acf2f274.js.map": "/proyecto-React/build/static/js/main.acf2f274.js.map",
+    "787.75b94f2b.chunk.js.map": "/proyecto-React/build/static/js/787.75b94f2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ad5ff3e.css",
-    "static/js/main.c23fb9fb.js"
+    "static/js/main.acf2f274.js"
   ]
 }
